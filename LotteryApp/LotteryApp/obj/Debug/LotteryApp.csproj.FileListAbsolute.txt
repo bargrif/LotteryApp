@@ -1,0 +1,6 @@
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe.config
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\bin\Debug\LotteryApp.exe
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\bin\Debug\LotteryApp.pdb
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\obj\Debug\LotteryApp.csprojAssemblyReference.cache
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\obj\Debug\LotteryApp.exe
+C:\Users\barry\source\repos\LotteryApp\LotteryApp\obj\Debug\LotteryApp.pdb
